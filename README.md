@@ -31,4 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirauiel&" alt="mirauiel" /></p>
 
-![snake gif](https://github.com/Mirauiel/Mirauiel/blob/output/github-contribution-grid-snake.gif)
